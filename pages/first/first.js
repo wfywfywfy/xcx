@@ -1,4 +1,4 @@
-// pages/www/www.js
+// pages/first/first.js
 Page({
 
   /**
