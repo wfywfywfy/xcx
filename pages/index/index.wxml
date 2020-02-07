@@ -11,7 +11,4 @@
     <text class="user-motto">{{motto}}</text>
   </view>
 </view>
-<<<<<<< HEAD
-=======
-<view>010101</view><view>010101</view>
->>>>>>> 0101
+
