@@ -1,0 +1,3 @@
+<!--components/my-first/my-first.wxml-->
+<text>{{data}}</text>
+<slot></slot>

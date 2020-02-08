@@ -1,0 +1,12 @@
+<!--components/my-second/my-second.wxml-->
+
+<view class='contain'>
+<block wx:for="{{list}}" wx:key="{{index}}">
+<view
+bind:tap="handlebt"
+data-number="{{index}}"
+ class='item {{cc===index?"active":""}}'>
+<text>{{item}}</text>
+</view>
+</block>
+</view>

@@ -1,0 +1,8 @@
+var foo = 'hellow world'
+var cc = function (a) {
+  return a
+}
+module.exports = {
+  foo: foo,
+  cc: cc
+}

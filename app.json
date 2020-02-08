@@ -1,7 +1,10 @@
 {
   "pages": [
     "pages/first/first",
+    "pages/third/third",
+    
     "pages/second/second"
+    
   ],
 
   "window": {
